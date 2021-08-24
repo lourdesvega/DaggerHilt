@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerHilt</string>
+    <string name="accept">Aceptar</string>
+    <string name="title">Error de conexión</string>
+    <string name="supporting_text">Ocurrió un error inténtelo más tarde</string>
+    <string name="title_coverage">Coberturas</string>
+</resources>
