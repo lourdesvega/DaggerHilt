@@ -17,7 +17,6 @@ class CoverageAdapter (var coverageViewModel: CoverageVM, var resource: Int) : R
 
     var coverage: List<Coverage>? = null
 
-
     fun setCoverageList(coverage: List<Coverage>?){
         this.coverage = coverage
     }
